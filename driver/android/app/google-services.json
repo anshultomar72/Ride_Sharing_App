@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "43890043330",
+    "project_id": "ghumo-703ae",
+    "storage_bucket": "ghumo-703ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43890043330:android:4d3ea8548bec5ef3358e5b",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcovfQjJXQnYOWr66oQzeDarEfSHaTuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43890043330:android:bb1c58dcf0f847d8358e5b",
+        "android_client_info": {
+          "package_name": "com.example.rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcovfQjJXQnYOWr66oQzeDarEfSHaTuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43890043330:android:f1fd81d76485ac50358e5b",
+        "android_client_info": {
+          "package_name": "com.ghumo.ghumo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcovfQjJXQnYOWr66oQzeDarEfSHaTuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

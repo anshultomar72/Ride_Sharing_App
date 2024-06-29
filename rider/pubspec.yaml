@@ -1,0 +1,33 @@
+name: rider
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  intl_phone_field: ^3.1.0
+  pinput: ^3.0.1
+  firebase_core: ^2.6.0
+  firebase_auth: ^4.5.0
+  bloc: ^7.0.0
+  equatable: ^2.0.0
+  flutter_bloc: ^7.0.0
+  firebase_messaging: ^14.7.15
+  cloud_firestore: ^4.14.0
+  http:
+  flutter_polyline_points: ^2.0.0
+  geolocator: ^10.0.1
+  google_maps_flutter: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
